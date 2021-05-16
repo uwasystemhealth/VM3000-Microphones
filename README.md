@@ -4,4 +4,6 @@ This project was completed by Ricky Leman under the supervision of Dr Ben Travag
 
 This project involves the design, build and testing of a microphone array prototype which implements a pair of Vesper VM3000 MEMS microphones.
 
-This repository and the time_domain_beamforming repository (https://github.com/uwasystemhealth/time_domain_beamforming) contains all relevant files for the VM3000 PDM microphone array beamforming project.
+This repository and the time_domain_beamforming repository - https://github.com/uwasystemhealth/time_domain_beamforming contains all relevant files for the VM3000 PDM microphone array beamforming project.
+
+All collected test data can be found in the time_domain_beamforming repository
